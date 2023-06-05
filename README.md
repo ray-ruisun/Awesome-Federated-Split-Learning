@@ -1,6 +1,4 @@
-# Awesome-Federated-Split-Learning
-
-# Awesome-Continual-Learning-At-Edge [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Federated-Split-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Selected Publications in Top-tier Conference and Journal
 
