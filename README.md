@@ -54,7 +54,9 @@
   - **Paper:** [[Openreview](https://openreview.net/forum?id=SNONkz5zEUF)], [[arXiv](https://arxiv.org/abs/2302.01633)]
 
 - (2018-05-16) **Distributed learning of deep neural network over multiple agents**, ![](https://img.shields.io/badge/Citation-354-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[Journal of Network and Computer Applications](https://www.sciencedirect.com/science/article/pii/S1084804518301590?via%3Dihub)], [[arXiv](https://arxiv.org/abs/1810.06060)] ![](https://img.shields.io/badge/CCF-C-orange?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCI-计算机2区-blue?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCI-工程技术2区-blue?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCIIF-7.57-blue?style=round-square&logo=SocialBlade&logoColor=6B9DF9)
+  - **Paper:**
+    - [[Journal of Network and Computer Applications](https://www.sciencedirect.com/science/article/pii/S1084804518301590?via%3Dihub)],  ![](https://img.shields.io/badge/CCF-C-orange?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCI-计算机2区-blue?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCI-工程技术2区-blue?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCIIF-7.57-blue?style=round-square&logo=SocialBlade&logoColor=6B9DF9)
+    - [[arXiv](https://arxiv.org/abs/1810.06060)]
   - `CNN Backbone`
 
 - (2021) **Federated Split Task-Agnostic Vision Transformer for COVID-19 CXR Diagnosis**, ![](https://img.shields.io/badge/Citation-24-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
@@ -71,6 +73,14 @@
     - [[arXiv](https://arxiv.org/abs/2103.02762)]
   - **Code:** [[Github](https://github.com/garrisongys/SplitFed)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/garrisongys/SplitFed?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/garrisongys/SplitFed?style=round-square&logo=Github&logoColor=white)
   - `Federated Split Learning`
+
+- (2020-11-06) **FedSL: Federated Split Learning on
+  Distributed Sequential Data in Recurrent
+  Neural Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper: ** [[arXiv](https://arxiv.org/abs/2011.03180)]
+  - **Code:** [[Github](https://github.com/abedicodes/FedSL)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/abedicodes/FedSL?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/abedicodes/FedSL?style=round-square&logo=Github&logoColor=white)
+  - **Presentation:** [[Youtube](https://www.youtube.com/watch?v=WcaZR-I6vIo)]
+  - `RNN Backbone`, `Federated Split Learning`
 
 # Benchmark, Baseline Code, Dataset and Survey 
 
