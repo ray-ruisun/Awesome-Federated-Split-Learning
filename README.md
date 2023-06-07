@@ -82,6 +82,17 @@
   - **Presentation:** [[Youtube](https://www.youtube.com/watch?v=WcaZR-I6vIo)]
   - `RNN Backbone`, `Federated Split Learning`
 
+- (2023-05-30) **Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper: ** [[arXiv](https://arxiv.org/abs/2305.18889)]
+  - `Federated Split Learning`
+
+
+- (2023-05-22) **When Computing Power Network Meets Distributed Machine Learning: An Efficient Federated Split Learning Framework**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper: ** [[arXiv](https://arxiv.org/abs/2305.12979)]
+  - `Federated Split Learning`
+
+
+
 # Benchmark, Baseline Code, Dataset and Survey 
 
 ## Benchmark and Dataset
