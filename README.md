@@ -2,6 +2,12 @@
 
 ## Selected Publications in Top-tier Conference and Journal
 
+### NeurIPS ![](https://img.shields.io/badge/CCF-A-red?style=round-square&logo=SocialBlade&logoColor=6B9DF9)
+
+| Title | Team/Authors | Venue and Year | Targeting Problem | Method |
+| ----- | ------------ | -------------- | ----------------- | ------ |
+| Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training | KAIST | 2021.11.02 | | |
+
 ### CVPR ![](https://img.shields.io/badge/CCF-A-red?style=round-square&logo=SocialBlade&logoColor=6B9DF9)
 
 | Title | Team/Authors | Venue and Year | Targeting Problem | Method |
@@ -82,10 +88,6 @@
     - [[arXiv](https://arxiv.org/abs/1810.06060)]
   - `CNN Backbone`
   
-- (2021 **NeurIPS**) **Federated Split Task-Agnostic Vision Transformer for COVID-19 CXR Diagnosis**, ![](https://img.shields.io/badge/Citation-24-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[NeurIPS'21](https://proceedings.neurips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html)] 
-  - `Transformer Backbone`, `Federated Split Learning`
-  
 - (2022-10) **FedLite: Improving Communication Efficiency in Federated Split Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[Openreview](https://openreview.net/forum?id=VO-HUrkHSY)] 
   - `Federated Split Learning`
@@ -133,9 +135,10 @@
     - [[arXiv](https://arxiv.org/abs/2205.13299)]
   - `Transformer Backbone`, `Federated Split Learning`
 
-- (2021-11-02 **NeurIPS**) **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**, ![](https://img.shields.io/badge/Citation-16-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+- (2021-11-02 **NeurIPS (Poster)**) **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**, ![](https://img.shields.io/badge/Citation-24-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:**
-    - [[NeurIPS'21](https://proceedings.neurips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf)] 
+    - [[NeurIPS'21](https://proceedings.neurips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html)] 
+    - [[Openreview](https://openreview.net/forum?id=Ggikq6Tdxch)]
     - [[arXiv](https://arxiv.org/abs/2111.01338)]
   - `Transformer Backbone`, `Federated Split Learning`
 
