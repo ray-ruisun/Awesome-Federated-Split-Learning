@@ -131,7 +131,7 @@
 ## Benchmark and Dataset
 
 - (2023-04-04) **SLPerf: a Unified Framework for Benchmarking Split Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[arXiv](https://arxiv.org/abs/2209.09476)]
+  - **Paper:** [[arXiv](https://arxiv.org/abs/2304.01502)]
 
 - (Baseline code) **Split Learning and Federated Learning**
   - **Code:** [[Github](https://github.com/bt-s/Split-Learning-and-Federated-Learning)] ![](https://img.shields.io/badge/PyTorch-1.3-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/bt-s/Split-Learning-and-Federated-Learning?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/bt-s/Split-Learning-and-Federated-Learning?style=round-square&logo=Github&logoColor=white)
