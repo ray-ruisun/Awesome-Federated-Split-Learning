@@ -40,7 +40,7 @@
 **Security**
 
 - [Model Extraction Attacks](#Model-Extraction-Attacks)
-
+- [Label Leakage and Protection](#Label-Leakage-and-Protection)
 
 
 ## Distributed System Design
@@ -62,7 +62,14 @@
 - (2023-03-13) **Model Extraction Attacks on Split Federated Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[Openreview](https://openreview.net/forum?id=vdxOesWgbyN)], [[arXiv](https://arxiv.org/abs/2303.08581)]
   - `Federated Split Learning`
-  
+
+### Label Leakage and Protection
+- (2021-02-17 **ICLR‘22**) **Label Leakage and Protection in Two-party Split Learning**, ![](https://img.shields.io/badge/Citation-66-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:**[[ICLR'22](https://openreview.net/pdf?id=cOtBRgsf2fO)], [[Openreview](https://openreview.net/forum?id=cOtBRgsf2fO)], [[arXiv](https://arxiv.org/abs/2102.08504)]
+  - **Code:** 
+    - [[Official Github](https://github.com/OscarcarLi/label-protection)]  ![](https://img.shields.io/badge/Tensorflow-2.x-orange?style=round-square&logo=Tensorflow&logoColor=orange) ![](https://img.shields.io/github/stars/OscarcarLi/label-protection?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OscarcarLi/label-protection?style=round-square&logo=Github&logoColor=white)
+    -  [[AIJack Github](https://github.com/Koukyosyumei/AIJack)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/Koukyosyumei/AIJack?style=round-square&logo=Github&logoColor=white), ![](https://img.shields.io/github/last-commit/Koukyosyumei/AIJack?style=round-square&logo=Github&logoColor=white)
+  - `Federated Split Learning`
   
 ## Uncategorised 
 - (2023-02-09 **TOIFS**) **Privacy-Preserving Split Learning for Large-Scaled Vision Pre-Training**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
