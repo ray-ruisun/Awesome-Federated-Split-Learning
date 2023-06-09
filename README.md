@@ -1,4 +1,5 @@
 # Awesome-Federated-Split-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+This repo includes both federated split learning and split learning works.
 
 ## Selected Publications in Top-tier Conference and Journal
 
@@ -37,6 +38,10 @@
 
 - [Communication Efficiency](#Communication-Efficiency)
 
+**Heterogeneity Problem**
+
+- [Data Heterogeneity](#Data-Heterogeneity)
+
 **Security**
 
 - [Model Extraction Attacks](#Model-Extraction-Attacks)
@@ -61,6 +66,23 @@
 - (2019-09-18) **Detailed comparison of communication efficiency of split learning and federated learning**, ![](https://img.shields.io/badge/Citation-121-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[arXiv](https://arxiv.org/abs/1909.09145)]
   - `Federated Split Learning`
+
+- (2022-10) **FedLite: Improving Communication Efficiency in Federated Split Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[Openreview](https://openreview.net/forum?id=VO-HUrkHSY)] 
+  - `Federated Split Learning`
+
+- (2023-05-30) **Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[arXiv](https://arxiv.org/abs/2305.18889)]
+  - `Federated Split Learning`
+
+## Heterogeneity
+### Data Heterogeneity
+- (2023-02-03) **Convergence Analysis of Split Learning on Non-IID Data**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[Openreview](https://openreview.net/forum?id=SNONkz5zEUF)], [[arXiv](https://arxiv.org/abs/2302.01633)]
+
+- (2022-06-06 **MDM**) **Efficient Split Learning with Non-iid Data**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[MDM'23](https://ieeexplore.ieee.org/abstract/document/9861117)] 
+  - `CNN Backbone`, `Split Learning`
 
 ## Security
 ### Model Extraction Attacks
@@ -101,24 +123,19 @@ Split Learning with Vision Transformer**, ![](https://img.shields.io/badge/Citat
   - `Transformer Backbone`, `Split Learning`
 - (2019-12-27) **Split Learning for collaborative deep learning in healthcare**, ![](https://img.shields.io/badge/Citation-74-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[arXiv](https://arxiv.org/abs/1912.12115)]
-- (2023-02-03) **Convergence Analysis of Split Learning on Non-IID Data**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[Openreview](https://openreview.net/forum?id=SNONkz5zEUF)], [[arXiv](https://arxiv.org/abs/2302.01633)]
+
 - (2018-05-16 **JNCA**) **Distributed learning of deep neural network over multiple agents**, ![](https://img.shields.io/badge/Citation-354-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:**
     - [[Journal of Network and Computer Applications](https://www.sciencedirect.com/science/article/pii/S1084804518301590?via%3Dihub)],  ![](https://img.shields.io/badge/CCF-C-orange?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCI-计算机2区-lightblue?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCI-工程技术2区-lightblue?style=round-square&logo=SocialBlade&logoColor=6B9DF9) ![](https://img.shields.io/badge/SCIIF-7.57-lightblue?style=round-square&logo=SocialBlade&logoColor=6B9DF9)
     - [[arXiv](https://arxiv.org/abs/1810.06060)]
   - `CNN Backbone`
-- (2022-10) **FedLite: Improving Communication Efficiency in Federated Split Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[Openreview](https://openreview.net/forum?id=VO-HUrkHSY)] 
-  - `Federated Split Learning`
+
 - (2020-11-06) **FedSL: Federated Split Learning on Distributed Sequential Data in Recurrent Neural Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[arXiv](https://arxiv.org/abs/2011.03180)]
   - **Code:** [[Github](https://github.com/abedicodes/FedSL)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/abedicodes/FedSL?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/abedicodes/FedSL?style=round-square&logo=Github&logoColor=white)
   - **Presentation:** [[Youtube](https://www.youtube.com/watch?v=WcaZR-I6vIo)]
   - `RNN Backbone`, `Federated Split Learning`
-- (2023-05-30) **Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[arXiv](https://arxiv.org/abs/2305.18889)]
-  - `Federated Split Learning`
+
 - (2023-05-22) **When Computing Power Network Meets Distributed Machine Learning: An Efficient Federated Split Learning Framework**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[arXiv](https://arxiv.org/abs/2305.12979)]
   - `Federated Split Learning`
