@@ -55,6 +55,10 @@ This repo includes both federated split learning and split learning works.
 
 ## Distributed System Design
 ### Communication Efficiency
+- (2023-05-30) **Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[arXiv](https://arxiv.org/abs/2305.18889)]
+  - `Federated Split Learning`
+
 - (2023-02-11) **Communication and Storage Efficient Federated Split Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[arXiv](https://arxiv.org/abs/2302.05599)]
   - `Federated Split Learning`
@@ -63,17 +67,18 @@ This repo includes both federated split learning and split learning works.
   - **Paper:** [[arXiv](https://arxiv.org/abs/2301.01824)]
   - `Federated Split Learning`
 
-- (2019-09-18) **Detailed comparison of communication efficiency of split learning and federated learning**, ![](https://img.shields.io/badge/Citation-121-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[arXiv](https://arxiv.org/abs/1909.09145)]
-  - `Federated Split Learning`
-
 - (2022-10) **FedLite: Improving Communication Efficiency in Federated Split Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[Openreview](https://openreview.net/forum?id=VO-HUrkHSY)] 
   - `Federated Split Learning`
 
-- (2023-05-30) **Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:** [[arXiv](https://arxiv.org/abs/2305.18889)]
+- (2021-07-01) **Visual Transformer Meets CutMix for Improved Accuracy, Communication Efficiency, and Data Privacy in Split Learning**, ![](https://img.shields.io/badge/Citation-1-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[Openreview](https://openreview.net/forum?id=gRCWdltNQq)], [[arXiv](https://arxiv.org/abs/2207.00234)]
+  - `Transformer Backbone`, `Split Learning`
+  
+- (2019-09-18) **Detailed comparison of communication efficiency of split learning and federated learning**, ![](https://img.shields.io/badge/Citation-121-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[arXiv](https://arxiv.org/abs/1909.09145)]
   - `Federated Split Learning`
+
 
 ## Heterogeneity
 ### Data Heterogeneity
