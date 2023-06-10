@@ -96,6 +96,11 @@ This repo includes both federated split learning and split learning works.
   - `Federated Split Learning`
 
 ### Label Leakage and Protection
+- (2022-11-28 **ICDM**) **Privacy-Preserving Split Learning via Patch Shuffling over Transformers**, ![](https://img.shields.io/badge/Citation-1-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:**[[ICDM'22](https://ieeexplore.ieee.org/abstract/document/10027647)]
+  - **Code:** [[Github](https://github.com/dixiyao/Patch-Shuffling-Transformer)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/dixiyao/Patch-Shuffling-Transformer?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/dixiyao/Patch-Shuffling-Transformer?style=round-square&logo=Github&logoColor=white)
+  - `Transformer Backbone`, `Split Learning`
+
 - (2022-10-28 **NeurIPS‘22**) **Differentially Private CutMix for Split Learning with Vision Transformer**, ![](https://img.shields.io/badge/Citation-1-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:**[[NeurIPS'22](https://openreview.net/pdf?id=gRCWdltNQq)], [[Openreview](https://openreview.net/forum?id=gRCWdltNQq)], [[arXiv](https://arxiv.org/abs/2210.15986)]
   - `Transformer Backbone`, `Split Learning`
@@ -106,11 +111,6 @@ This repo includes both federated split learning and split learning works.
     - [[Official Github](https://github.com/OscarcarLi/label-protection)]  ![](https://img.shields.io/badge/Tensorflow-2.x-orange?style=round-square&logo=Tensorflow&logoColor=orange) ![](https://img.shields.io/github/stars/OscarcarLi/label-protection?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OscarcarLi/label-protection?style=round-square&logo=Github&logoColor=white)
     -  [[AIJack Github](https://github.com/Koukyosyumei/AIJack)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/Koukyosyumei/AIJack?style=round-square&logo=Github&logoColor=white), ![](https://img.shields.io/github/last-commit/Koukyosyumei/AIJack?style=round-square&logo=Github&logoColor=white)
   - `Federated Split Learning`
-
-- (2022-11-28 **ICDM**) **Privacy-Preserving Split Learning via Patch Shuffling over Transformers**, ![](https://img.shields.io/badge/Citation-1-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
-  - **Paper:**[[ICDM'22](https://ieeexplore.ieee.org/abstract/document/10027647)]
-  - **Code:** [[Github](https://github.com/dixiyao/Patch-Shuffling-Transformer)] ![](https://img.shields.io/badge/PyTorch-latest-orange?style=round-square&logo=PyTorch&logoColor=orange) ![](https://img.shields.io/github/stars/dixiyao/Patch-Shuffling-Transformer?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/dixiyao/Patch-Shuffling-Transformer?style=round-square&logo=Github&logoColor=white)
-  - `Transformer Backbone`, `Split Learning`
 
 ## Others
 ### Combine FL and SL
