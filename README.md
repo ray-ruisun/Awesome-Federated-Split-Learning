@@ -88,6 +88,11 @@ This repo includes both federated split learning and split learning works.
 - (2022-06-06 **MDM**) **Efficient Split Learning with Non-iid Data**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[MDM'23](https://ieeexplore.ieee.org/abstract/document/9861117)] 
   - `CNN Backbone`, `Split Learning`
+ 
+### System Heterogeneity
+- (2024-07-25) **Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning**, ![](https://img.shields.io/badge/Citation-0-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
+  - **Paper:** [[IEEE ICDCS'24](https://ieeexplore.ieee.org/document/10631026)]
+  - `Decentralized Learning`, `Multi-Agent Systems`, `Workload Balancing`
 
 ## Security
 ### Model Extraction Attacks
